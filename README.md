@@ -1,4 +1,4 @@
-rn# Code Along: Yielding and Return Values
+# Code Along: Yielding and Return Values
 
 
 ## Objectives
